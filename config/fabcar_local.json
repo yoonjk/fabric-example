@@ -1,0 +1,11 @@
+{
+    "cred_filename": "connection_profile.json",
+    "use_events": true,
+    "keep_alive_secs": 120,
+    "company": "United Marbles",
+    "usernames": [
+        "nexweb",
+        "randori"
+    ],
+    "port": 3001
+}
