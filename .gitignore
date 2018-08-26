@@ -32,3 +32,5 @@ db
 recycle
 logs
 *.log
+card/connection.json
+
